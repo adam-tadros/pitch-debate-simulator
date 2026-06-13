@@ -1,0 +1,40 @@
+# Shape of Thought — Pitch
+
+Shape of Thought is an AI-powered learning tool that turns any lecture or course
+material into a personalized, interactive concept map — helping students (especially
+those with ADHD or attention difficulties) build genuine understanding instead of
+passive note-taking.
+
+## The Problem
+Traditional lectures are one-size-fits-all. Students with ADHD, who represent roughly
+16% of college students, struggle to maintain focus and build mental models from
+linear lecture formats. The average attention span in a lecture drops to 10 minutes,
+and students routinely lose the "conceptual thread" even when they're physically
+present. This translates to roughly a half-grade-point deficit compared to their
+non-ADHD peers in standard lecture courses.
+
+## The Solution
+Shape of Thought uses a three-stage AI pipeline:
+1. **Extraction**: Course materials (slides, transcripts, readings) are processed to
+   identify core concepts and relationships.
+2. **Mapping**: A hierarchical concept map is generated, with connections between
+   ideas made explicit and color-coded by type (causal, definitional, sequential).
+3. **Interaction**: Students navigate the map interactively — zooming in for detail,
+   clicking to surface examples, and asking questions that are answered in context.
+
+The educator reviews and approves the map before it's shared with students, ensuring
+accuracy and pedagogical alignment.
+
+## Traction
+- Pilot with 3 Calc 1A sections at Foothill College (~90 students)
+- 83% of pilot students reported the map helped them follow the lecture better
+- Average quiz scores 12% higher in map-assisted sections vs. control
+
+## Business Model
+B2B SaaS sold to community colleges and universities. $15/student/month, with an
+institution-wide license starting at $8,000/year. Target: 500 institutions in 5
+years = $4M ARR.
+
+## Ask
+Seeking $250K pre-seed to: (1) hire one ML engineer, (2) run a randomized controlled
+trial across 10 institutions, (3) build the Canvas LMS integration.
