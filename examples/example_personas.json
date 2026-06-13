@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Maya Chen",
+    "role": "Partner at an edtech-focused VC fund",
+    "background": "Former teacher, then product lead at Duolingo, now 8 years in edtech investing. Has seen hundreds of learning-tool pitches. Very skeptical of efficacy claims without rigorous evidence. Has funded two companies that failed because of poor LMS integration.",
+    "concerns": "Worried the 12% quiz-score lift is from a confounded pilot, not a real effect. Skeptical about the B2B sales motion into cash-strapped community colleges. Wants to know if educators will actually use the review step.",
+    "priorities": "Evidence of real learning outcomes, a clear distribution wedge, unit economics that work at small institutions.",
+    "style": "Measured but relentless. Asks the same question three different ways until she gets a real answer. Friendly tone, sharp mind."
+  },
+  {
+    "name": "Dr. James Okafor",
+    "role": "Dean of Instruction at a large community college",
+    "background": "20 years in higher education administration. Has evaluated and rejected dozens of EdTech vendors. Deeply protective of faculty time and skeptical of tools that promise to 'replace' instructor judgment. Budget authority for technology purchases.",
+    "concerns": "How much time does the faculty review step actually take? What happens when the AI misrepresents a concept? Who owns the student data? Does this require IT infrastructure he doesn't have?",
+    "priorities": "Ease of adoption, data privacy compliance (FERPA), faculty buy-in, minimal IT burden.",
+    "style": "Direct and institutional. Asks about policies and process, not just features. Cuts through marketing language quickly."
+  },
+  {
+    "name": "Priya Nair",
+    "role": "Angel investor, former founder (sold a SaaS company to Salesforce)",
+    "background": "Built and sold a B2B SaaS tool for HR teams. Strong opinions on go-to-market strategy, pricing, and founder-market fit. Less expert in edtech specifically, more focused on business fundamentals.",
+    "concerns": "The $250K ask feels light for what they're trying to do. The 500-institution-in-5-years target seems optimistic given typical enterprise sales cycles. Wants to understand who's on the team and why they're the right people.",
+    "priorities": "Founder quality, realistic growth model, clear path to Series A, why now.",
+    "style": "Enthusiastic and fast-talking, but pivots sharply to hard business questions. Uncomfortable with hand-waving on financials."
+  }
+]
