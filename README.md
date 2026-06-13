@@ -1,7 +1,6 @@
 # Pitch Debate Simulator
 
-A multi-agent CLI tool that stress-tests a pitch or presentation by simulating a panel Q&A — complete with distinct evaluator personas, structured debate rounds, and a synthesis agent that surfaces actionable insights.
-
+A multi-agent CLI tool to stress-tests a pitch or presentation by simulating a panel Q&A. 
 ## How It Works
 
 ```
